@@ -6,8 +6,10 @@ handSize.R
 
 ### App
 ui.R
+
 server.R
 
 ### App explanation
 prepared with {slidify}
+
 ./explanation/index.Rmd
