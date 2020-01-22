@@ -1,9 +1,7 @@
 # handSize
  first play with {shiny} and {slidify}
  
- assignment of coursera course "developing data products"
- 
- https://www.coursera.org/learn/data-products
+ assignment of coursera course "developing data products" (https://www.coursera.org/learn/data-products)
 
 ### Stand alone code
 handSize.R
