@@ -1,5 +1,5 @@
 # handSize
- first play with shiny
+ first play with {shiny} and {slidify}
 
 ### Stand alone code
 handSize.R
@@ -9,4 +9,5 @@ ui.R
 server.R
 
 ### App explanation
+prepared with {slidify}
 ./explanation/index.Rmd
